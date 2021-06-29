@@ -32,7 +32,7 @@ class Search extends React.Component {
                 Text ? <Text /> : null
             }
             { addResult }
-            搜索文字的内容<img src={ logo } onClick={ this.loadComponent.bind(this) } />
+            搜索文字的内容--添加<img src={ logo } onClick={ this.loadComponent.bind(this) } />
         </div>;
     }
 }
