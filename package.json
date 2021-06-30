@@ -1,6 +1,6 @@
 {
-  "name": "builder-webpack-geektime",
-  "version": "1.0.3",
+  "name": "my-project-builder-webpack",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
